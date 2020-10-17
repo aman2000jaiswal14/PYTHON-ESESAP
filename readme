@@ -1,0 +1,6 @@
+ESESAP  is a file seperator application.
+Uses:-
+  If someone have many kind file(like video file, music file, text file, images) got mixed up at a specific path of a folder or directory.
+  Then this GUI application works to separate those file formate by creating a new directory for each file type.
+
+Used tkinter GUI toolkit.
